@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|c:\\users\\musta\\onedrive\\desktop\\haci\\akadem\u0130\\c#\\cafe_uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|c:\\users\\musta\\onedrive\\desktop\\haci\\akadem\u0130\\c#\\cafe_uygulamas\u0131\\adisyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:adisyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\kullanicilarcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:kullanicilarcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|c:\\users\\musta\\onedrive\\desktop\\haci\\akadem\u0130\\c#\\cafe_uygulamas\u0131\\adisyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:adisyonlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|c:\\users\\musta\\onedrive\\desktop\\haci\\akadem\u0130\\c#\\cafe_uygulamas\u0131\\kullanicilarcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:kullanicilarcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|c:\\users\\musta\\onedrive\\desktop\\haci\\akadem\u0130\\c#\\cafe_uygulamas\u0131\\\u00FCr\u00FCnler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63B74E-2A58-41FA-B8EA-DA6B786C54B0}|Cafe_Uygulamas\u0131.csproj|solutionrelative:\u00FCr\u00FCnler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kullanicilarcs.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Kullanicilarcs.cs",
+              "RelativeDocumentMoniker": "Kullanicilarcs.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Kullanicilarcs.cs",
+              "RelativeToolTip": "Kullanicilarcs.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwGAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u00FCr\u00FCnler.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\\u00FCr\u00FCnler.cs",
+              "RelativeDocumentMoniker": "\u00FCr\u00FCnler.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\\u00FCr\u00FCnler.cs",
+              "RelativeToolTip": "\u00FCr\u00FCnler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adisyonlar.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\adisyonlar.cs",
+              "RelativeDocumentMoniker": "adisyonlar.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\adisyonlar.cs",
+              "RelativeToolTip": "adisyonlar.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.895Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanicilarcs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Kullanicilarcs.cs",
+              "RelativeDocumentMoniker": "Kullanicilarcs.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\Kullanicilarcs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kullanicilarcs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.925Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adisyonlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\adisyonlar.cs",
+              "RelativeDocumentMoniker": "adisyonlar.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Desktop\\haci\\AKADEM\u0130\\c#\\Cafe_Uygulamas\u0131\\adisyonlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "adisyonlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:59:07.933Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
